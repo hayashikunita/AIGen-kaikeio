@@ -2,6 +2,14 @@
 
 ExcelファイルをアップロードしてChatGPT APIで解析し、会計王の仕訳データ受入形式のCSVファイルに変換するWebアプリケーションです。
 
+
+
+
+<div>
+<video controls src="https://github.com/user-attachments/assets/b2c9d167-aefb-47dc-be6f-3c767cd44588" muted="false"></video>
+</div>
+
+
 ## 機能
 
 - 📤 **Excelファイルのアップロード**: 取引データを含むExcelファイルを簡単にアップロード
@@ -22,6 +30,10 @@ ExcelファイルをアップロードしてChatGPT APIで解析し、会計王�
 ```bash
 git clone https://github.com/yourusername/AIGen-kaikeio.git
 cd AIGen-kaikeio
+
+https://github.com/user-attachments/assets/b579dac4-83b5-4bda-a248-fa8a163acf93
+
+
 ```
 
 ### 2. 仮想環境の作成(推奨)
